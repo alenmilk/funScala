@@ -1,0 +1,16 @@
+{
+  "name": "funScala",
+  "version": "1.0.0",
+  "authors": [
+    "Alen Milkovic <alenm@usit.uio.no>"
+  ],
+  "description": "Felles Uttrykk på nett for fsweb.no",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
