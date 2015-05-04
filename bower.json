@@ -1,6 +1,7 @@
 {
   "name": "funScala",
   "version": "1.0.0",
+  "main": "resources/css/fun.css",
   "authors": [
     "Alen Milkovic <alenm@usit.uio.no>"
   ],
